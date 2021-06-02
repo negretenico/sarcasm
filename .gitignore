@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Data/train-balanced-sarcasm.csv
+Data/comments_responses.txt
+logisticRegression.pickle
+naiveBaynes.pickle
+preceptron.pickle
